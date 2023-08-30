@@ -1,17 +1,18 @@
-## HTML Chapter 08
+## HTML 08
+## Chapter 8: Create Tables
 It is my coding practice with the TUTORIAL of Dave Gray. 
 
 ## Source
+### Dave Gray 的 HTML 資源
+https://github.com/gitdagray/html_course
+
 ### Dave Gray 的 HTML 課程
 https://youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu
 
 ### Dave Gray 的 YouTube 頻道
 https://www.youtube.com/@DaveGrayTeachesCode
 
-## HTML Chapter 08
-   Quick Concept outline
-   中文摘要說明與重點提問
-
+## Quick Concept outline
 ###  1. Intro
         教學影片固定的開頭
 
